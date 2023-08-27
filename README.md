@@ -26,6 +26,6 @@ Welcome to my GitHub repository! I'm Amman Ahmed, a seasoned Flutter developer w
 
 **Contact** 📞📧
 
-Let's connect and collaborate! Reach out to me via [LinkedIn](https://www.linkedin.com/in/amman-ahmed-720107228/) or [Gmail](ammanahmed3016@gmail.com). You can also follow me on GitHub [![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername).
+Let's connect and collaborate! Reach out to me via [LinkedIn](https://www.linkedin.com/in/amman-ahmed-720107228/). You can also follow me on GitHub [![GitHub](https://img.shields.io/github/followers/ammanahmed31?label=Follow&style=social)](https://github.com/ammanahmed31).
 
 Let's turn ideas into exceptional Flutter apps! 🚀👩‍💻👨‍💻
